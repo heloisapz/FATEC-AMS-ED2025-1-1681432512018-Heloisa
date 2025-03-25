@@ -1,3 +1,12 @@
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: S1-B1-Atividade 3                       */
+/*             Objetivo: << Maipulação de Lista Ligada >>                           */
+/*                                                                                  */
+/*                                  Autor: Heloísa Pichelli Souza                   */
+/*                                                                   Data:14/03/2025*/
+/*----------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
